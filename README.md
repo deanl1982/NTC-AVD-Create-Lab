@@ -3,7 +3,7 @@ NTC-AVD-Create-Lab
 
 From the Azure Portal open Cloud Shell (create new instance if required)
 
-Return the below commands from Cloud Shell to create your AVD lab
+Run the below commands from Cloud Shell to create your AVD lab
 
 git clone https://github.com/deanl1982/NTC-AVD-Create-Lab.git NTC-AVD-Create-Lab
 
