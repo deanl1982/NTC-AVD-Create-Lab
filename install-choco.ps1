@@ -2,4 +2,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Wait 10
 
-choco install adobereader googlechrome microsoft-edge 7zip.install notepadplusplus.install vlc putty.install --force -y
+choco install adobereader googlechrome 7zip.install notepadplusplus.install vlc putty.install --force -y
